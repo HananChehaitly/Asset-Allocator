@@ -8,7 +8,7 @@ subject to a constraint.
 The user needs to enter the number of assets, then the covariances between those assets. 
 Investors usually have a ready excel sheet in the following form: 
 
-        1    &emsp;2    &emsp;3
+        1        2        3
       
 1 &emsp;cov(1,1)  &ensp;cov(1,2)  &ensp;cov(1,3)
 
