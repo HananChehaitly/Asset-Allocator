@@ -10,13 +10,13 @@ Investors usually have a ready excel sheet in the following form:
 
       1         2          3
       
-1   cov(1,1)  cov(1,2)   cov(1,3)
+1     cov(1,1)  cov(1,2)   cov(1,3)
 
 
-2   cov(2,1)  cov(2,2)   cov(2,3)
+2     cov(2,1)  cov(2,2)   cov(2,3)
 
 
-3   cov(3,1)  cov(3,2)   cov(3,3)
+3     cov(3,1)  cov(3,2)   cov(3,3)
 
 
 
